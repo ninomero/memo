@@ -10,6 +10,11 @@ cd [file-name]
 code .
 npx start
 
+- firebase環境へのdeploy
+  
+1. npm run build
+2. firebase deploy
+
 - vite setup
 npm install --save-dev vite @vitejs/plugin-react
 
@@ -348,7 +353,6 @@ ul>li * 5
 ### 88.3　SPA
 
 React + Firebase + Stripe で実現する
-
 
 ---
 
