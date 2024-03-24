@@ -67,6 +67,20 @@ Googleが提供するフォントパッケージ
 
 npm install material-symbols@latest
 
+## 1.1.2.9 HTML Parser
+
+HTMLを解析して変換するパッケージ
+
+npm install html-react-parser --save
+
+## 1.1.2.10 Swiper
+
+旧バージョンで試していたので最新のバージョンを使用する場合はドキュメントを確認する必要あり
+
+以下、初めてSwiper を使用した際のパッケージダウンロード
+
+npm install -S swiper@5.4.2 react-id-swiper@3.0.0
+
 ### 1.1.3 Firebase
 
 初期化設定  
